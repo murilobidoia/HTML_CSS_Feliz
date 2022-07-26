@@ -29,21 +29,6 @@ a::before {
     margin-right: 10px;
 }
 
-#button{
-    display: inline-block;
-    background-color: #62C370;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0px #000000;
-    margin-right: 0px;
-    transition: 350ms linear;
-}
-
-#button:hover{
-    color: #62C370;
-    background-color: #fff;
-    transform: scale(1.05);
-}
-
 #titulos:hover{
     color: #62C370;
     transform: scale(1.1);
